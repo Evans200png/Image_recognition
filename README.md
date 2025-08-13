@@ -74,3 +74,8 @@ Pillow
 - Kaggle Dataset
 - TensorFlow
 - Streamlit
+
+---
+
+## Live
+click here to explore (https://evans200png-image-recognition-app-jwzvwp.streamlit.app/)

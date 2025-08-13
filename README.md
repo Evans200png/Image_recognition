@@ -14,7 +14,7 @@ cat-dog-classifier/
 
 ## 🚀 How to Run the App
 ### 1. Clone the repository or copy the files
-git clone https://github.com/your-username/cat-dog-classifier.git
+git clone https://github.com/Evans200png/Image_recognition.git
 cd cat-dog-classifier
 
 ---

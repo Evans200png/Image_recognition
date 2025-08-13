@@ -1,5 +1,3 @@
-# see.py
-
 import streamlit as st
 import tensorflow as tf
 import numpy as np
@@ -26,10 +24,10 @@ def load_model():
         Dense(1, activation='sigmoid')
     ])
 
-    # 2) Load your trained weights
+    # Load your trained weights
     model.load_weights('mobilenet_weights.weights.h5')
 
-    # 3) Compile (if you’ll use `model.evaluate` or similar)
+    #Compile (if you’ll use `model.evaluate` or similar)
     model.compile(
         optimizer='adam',
         loss='binary_crossentropy',
